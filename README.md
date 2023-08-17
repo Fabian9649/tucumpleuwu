@@ -1,6 +1,7 @@
 # tucumpleuwu
 <html>
 <head>
+ remote_theme:Minimal
 <title> Cumpleañosss de mi flaca galcita </title> 
  </head>
 <body bgcolor="pink">
